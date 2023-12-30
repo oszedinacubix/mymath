@@ -1,0 +1,5 @@
+Version: 0.0.2
+Date: 2023.12.30.
+Implemented tasks:
+- MATH-3 Implement multiply
+- MATH-4 Implement divide
